@@ -1,0 +1,7 @@
+.detailsuser {
+    margin-left: -100px;
+}
+
+.detailsuser div:nth-child(1) {
+    margin-top: -10px;
+}

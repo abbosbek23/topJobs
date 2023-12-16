@@ -1,0 +1,29 @@
+.Main {
+    margin-top: 80px;
+}
+.topinfo .topinfotext {
+    font-size: 14px;
+    margin-top: 4px;
+    margin-left: 10px;
+    text-decoration: underline;
+    text-decoration-color: white;
+    color: #242424;
+    position: relative;
+}
+.cardbody h2 {
+    font-size: 20px;
+    color: #242424;
+    font-family: sohne, "Helvetica Neue", "Dreiviertelfett", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    width: 500px;
+    line-height: 24px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+.btn-article{
+    margin-left: 79.5%;
+}
+.Main .container .main-info{
+    margin-top: 100px;
+}

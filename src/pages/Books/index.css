@@ -1,0 +1,88 @@
+.container .box-book {
+   border: 1px solid rgba(0, 0, 0, 0.315);
+    width: 24%;
+    padding: 14px 26px 25px 16px;
+    align-items: center;
+    text-align: left;
+    border-radius: 9px;
+}
+
+.container .box-book img {
+    margin-left: 15%;
+}
+
+.container .box-book p {
+    font-family: "Roboto", sans-serif;;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    font-style: normal;
+    color: #363636;
+    text-decoration: none;
+}
+
+.btn-books {
+    margin-left: 27%;
+}
+
+.btn-download-book {
+    margin-left: 22%;
+    margin-top: 5%;
+
+}
+
+.box-details-book {
+    margin-top: 40px;
+}
+
+.box-details-info {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.box-details-info button {
+    margin-top: 10px;
+    padding: 7px 10px;
+    border: 1px solid #008dff;
+    color: #008dff;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.box-details-book h4 {
+    font-size: 22px;
+    line-height: 30px;
+    font-weight: 700;
+    color: #0d0d0d;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+}
+
+.descriptions-main {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 32px;
+    font-family: Fira Sans, Roboto, system-ui, serif;
+}
+
+.box-details-info p {
+    margin-top: 10px;
+    width: 60%;
+}
+
+.box-details-img {
+    padding: 35px 25px;
+    background-color: #f4f7fd;
+    width: 29%;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(209, 213, 223, .5);
+}
+
+.box-img {
+    background-color: #e8e8e8;
+    padding: 30px 27px;
+    height: 100%;
+}

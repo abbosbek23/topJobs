@@ -1,0 +1,44 @@
+.vacancydetails .applybtn {
+    background-color: rgb(37, 87, 167);
+    border-color: rgb(37, 87, 167);
+    color: white;
+    font-size: 18px;
+    padding: 7px 33px;
+}
+
+.vacancydetails .applybtn:hover {
+    border-color: rgb(22, 64, 129);
+    background-color: rgb(22, 64, 129);
+    color: rgb(255, 255, 255);
+}
+.vacancydetails {
+    padding: 25px;
+    margin-left: 134px;
+    margin-top: 40px;
+    box-shadow: 3px 4px 8px 4px #ededed;
+}
+
+.vacancydetailsh3 {
+    font-family: Arial, Helvetica Neue, sans-serif;
+    font-size: 32px;
+    line-height: 1.12;
+    font-weight: 700;
+}
+
+.vacancydetailspp {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.16;
+    font-family: Arial, Helvetica Neue, sans-serif;
+}
+
+.vacancydetailsp {
+    color: #303233;
+    font-size: 16px;
+    line-height: 1.16;
+    font-family: Arial, Helvetica Neue, sans-serif;
+}
+
+.vacancydetail {
+    margin-left: 152px;
+}

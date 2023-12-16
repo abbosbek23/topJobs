@@ -1,0 +1,126 @@
+
+.MainTop {
+    margin-top: 5px;
+}
+
+.bgImage {
+    background-image: url(../../assets/vacancymainImage.png);
+    background-position: top;
+    height: 80vh;
+    background: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    width: 100%;
+}
+
+.MainTop h2 {
+    color: #0B3299;
+    text-align: center;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 109.1%; /* 74.188px */
+    letter-spacing: -2.72px;
+    width: 50%;
+    margin-left: 270px;
+    padding-top: 190px;
+}
+
+.col-md-3 {
+    margin-left: 317px;
+}
+
+.col-md-3 input {
+    width: 254px;
+    margin-left: 36px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-size: 18px;
+}
+
+.col-md-3 .form-control {
+    height: 40px;
+    padding: 10px;
+}
+
+.col-md-2 button {
+    height: 40px;
+}
+
+.cardbox {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+}
+
+.cardbox .box {
+    width: 23%;
+    height: 90px;
+    margin: 10px;
+    padding: 5px 15px;
+    border: 0.7px solid gray;
+    margin-left: 10px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.cardbox .box .lineLeft {
+    position: absolute;
+    top: -2px;
+    left: -5px;
+    width: 10px;
+    height: 90px;
+    background-color: red;
+    opacity: 0.5;
+}
+
+.cardbox .box:hover {
+    transition: 0.3s;
+    box-shadow: 2px 2px 8px 1px #474949;
+}
+
+.cardbox h4 {
+    font-size: 18px;
+    font-family: Arial, Helvetica Neue, sans-serif;
+    font-weight: 400;
+    line-height: 1.1;
+    margin-top: 8px;
+}
+
+.cardbox h4, p {
+    color: #242424;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+.searchbar {
+    margin-left: 28%;
+    width: 380px;
+    border: 1px solid gray;
+    background-color: white;
+    padding: 0;
+    border-radius: 15px;
+}
+
+.searchbar input {
+    border: none;
+    border-radius: 15px;
+    width: 93%;
+    padding: 5px 10px;
+}
+
+.searchbar input:active {
+    border: none;
+    outline: none;
+}
+
+.searchbar input:focus {
+    border: none;
+    outline: none;
+}
+
+.searchbar img {
+    margin-top: 10px;
+}
